@@ -1,0 +1,9 @@
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\bin\Debug\PageObjects.dll
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\bin\Debug\PageObjects.pdb
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\bin\Debug\WebDriver.dll
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\bin\Debug\WebDriver.Support.dll
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\bin\Debug\WebDriver.xml
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\bin\Debug\WebDriver.Support.xml
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\obj\Debug\PageObjects.dll
+c:\users\steve\documents\visual studio 2015\Projects\ValtechTest\PageObjects\obj\Debug\PageObjects.pdb
