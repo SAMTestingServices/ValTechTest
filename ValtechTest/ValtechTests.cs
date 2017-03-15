@@ -3,13 +3,14 @@ using System.Threading;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Support.UI;
 using PageObjects;
 
 namespace ValtechTest
 {
     [TestClass]
-    public class UnitTest1
+    public class ValtechTests
     { 
        IWebDriver driver;
 
